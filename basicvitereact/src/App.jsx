@@ -1,11 +1,16 @@
-
+import Chai from './chai.jsx'
 function App() {
    
 
   return (
-    <h1>
-      i am veer Your Chai is Ready Heree
-    </h1>
+    <div>
+
+
+
+    <h1>   <Chai />   </h1>
+
+    
+    </div>
   )
 }
 
